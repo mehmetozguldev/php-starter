@@ -1,11 +1,13 @@
-# PHP Simple Boilerplate
+# PHP Starter
 
 ## Description
+
+This is a simple PHP starter project that includes a basic web server setup and a simple routing system.
 
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/php-simple-boilerplate.git
-cd php-simple-boilerplate
+git clone https://github.com/mehmetozguldev/php-starter.git
+cd php-starter
 php -S localhost:8888
 ```
