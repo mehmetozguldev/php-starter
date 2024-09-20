@@ -7,4 +7,6 @@ return [
         'dbname' => 'php_starter',
         'charset' => 'utf8mb4'
     ],
+
+    //
 ];
