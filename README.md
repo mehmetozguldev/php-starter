@@ -9,5 +9,5 @@ This is a simple PHP starter project that includes a basic web server setup and 
 ```bash
 git clone https://github.com/mehmetozguldev/php-starter.git
 cd php-starter
-php -S localhost:8888
+php -S localhost:8888 -t public
 ```
