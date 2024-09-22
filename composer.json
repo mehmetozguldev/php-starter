@@ -1,0 +1,21 @@
+{
+    "name": "mehmetozgul/php-starter",
+    "autoload": {
+        "psr-4": {
+            "Mehmetozgul\\PhpStarter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehmet Ozgul",
+            "email": "91568457+mehmetozguldev@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+  "autoload": {
+    "psr-4": {
+      "Core\\": "Core/",
+      "Http\\": "Http/"
+    }
+  }
+}
