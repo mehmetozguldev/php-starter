@@ -11,11 +11,21 @@
             "email": "91568457+mehmetozguldev@users.noreply.github.com"
         }
     ],
-    "require": {},
+    "require": {
+        "illuminate/collections": "^11.23"
+    },
   "autoload": {
     "psr-4": {
       "Core\\": "Core/",
       "Http\\": "Http/"
     }
-  }
+  },
+    "require-dev": {
+        "pestphp/pest": "^3.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
 }
